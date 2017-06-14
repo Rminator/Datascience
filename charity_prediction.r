@@ -1,5 +1,5 @@
 ####### Below is the R code used to Build the classification models and predictions models########
-#### Nitin Gaonkar- Predict-422- Final project#############
+######### Below code builds models for charity data########################
 
 
 library(Matrix)
