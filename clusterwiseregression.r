@@ -4,7 +4,6 @@
 # t is no of iterations
 # q is the seed for ramdom sampling.
 
-
 clustreg = function(data,k,t,q) {
   
   rsq = c()       # array of R-Squared values
